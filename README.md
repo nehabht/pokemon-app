@@ -21,5 +21,5 @@ Make sure you have **Node.js** installed (version 18 or higher recommended).
 - install dependencies with npm install
 
 ### Run the progect
-npm run dev and you progect should open in http://localhost:5173
+npm run dev and you project should open in http://localhost:5173
 
